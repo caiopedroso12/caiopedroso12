@@ -63,9 +63,10 @@ Estou buscando estágio em tecnologia.
 
 - **E-mail:** [caiocruz72@gmail.com](mailto:caiocruz72@gmail.com)
 - **LinkedIn:** [linkedin.com/in/caio-pedroso-oliveira](https://www.linkedin.com/in/caio-pedroso-oliveira)
+## Contribuições
 
-<div align-center>
-
-<img src="https://raw.githubusercontent.com/caiopedroso12/gitrepo/output/snake.svg" alt="Snake animation" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caiopedroso12/caiopedroso12/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caiopedroso12/caiopedroso12/output/github-contribution-grid-snake.svg">
+  <img alt="Gráfico de contribuições de caiopedroso12 no GitHub, animado como uma cobrinha que come os quadrados" src="https://raw.githubusercontent.com/caiopedroso12/caiopedroso12/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
